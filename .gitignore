@@ -1,0 +1,6 @@
+/.vscode
+/__pycache__
+/main.py
+/pdf.py
+/super_heroes.pdf
+/superhero_client.py
